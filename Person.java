@@ -1,5 +1,5 @@
 package BookTasks;
-
+//i
 public class Person {
 // поля класса
 	private String name;

@@ -1,5 +1,5 @@
 package BookTasks;
-
+//i
 public class Univercity {
 // поля класса
 	private String facultet;

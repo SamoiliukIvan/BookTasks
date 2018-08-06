@@ -1,5 +1,5 @@
 package BookTasks;
-
+//i
 public class Student {
 // поля класса
 	private iD newId;

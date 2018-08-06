@@ -1,5 +1,5 @@
 package BookTasks;
-
+// i
 public class Address {
 // поля класс
 	private String country;

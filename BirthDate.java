@@ -1,5 +1,5 @@
 package BookTasks;
-
+//i
 public class BirthDate {
 // поля класса
 	private int day;

@@ -1,5 +1,5 @@
 package BookTasks;
-
+//i
 public class PhoneNumber {
 // поле класса
 	private long phone;
