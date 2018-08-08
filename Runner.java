@@ -15,8 +15,8 @@ public class Runner {
 		System.out.println();
 		
 		Student2 st3 = new Student2();
-		st3.setiD(1);
-		st3.setName("Andrey");
+		st3.setiD(2);
+		st3.setName("Ivan");
 		st3.setSecondname("Evgenievich");
 		st3.setLastname("Samoiliuk");
 		st3.setAddress("Ukraine", "Kharkiv district", "Kharkiv", "Gv.Shir.m,79", 12345);
